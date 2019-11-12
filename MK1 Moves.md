@@ -41,7 +41,7 @@ Move | Combo | Notes
 -----|-------|------
 Ice Freeze | D, F, LP |
 Slide | Hold B + LP + LK + BL | Arcade
-Slide | Holf B, LK + HK | Sega
+Slide | Hold B, LK + HK | Sega
 Fatality | F, D, F, HP | Close
 
 ## Sonya
